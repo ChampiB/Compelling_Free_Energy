@@ -2,7 +2,6 @@ from gekko import GEKKO
 from scipy.special import softmax
 import numpy as np
 from operators.Operators import Operators as Ops
-from environments.MazeEnvAction import MazeEnvAction
 
 
 #
